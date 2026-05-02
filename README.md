@@ -1,2 +1,3 @@
-# mba-ia-desafio-ingestao-busca
-Desafio MBA Engenharia de Software com IA - Full Cycle
+# Desafio MBA Engenharia de Software com IA - Full Cycle
+
+Descreva abaixo como executar a sua solução.
